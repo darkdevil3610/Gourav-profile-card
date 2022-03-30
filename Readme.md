@@ -1,6 +1,6 @@
 # Frontends Projects - Animated Profile Card
 
-![3D SOCIAL MEDIA ICON](/Design/profileCard.png)
+![Animated Profile Card](/Design/profileCard.png)
 
 ---
 Project: Animated Profile Card\
