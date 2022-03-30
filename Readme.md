@@ -1,6 +1,6 @@
 # Frontends Projects - Animated Profile Card
 
-![Animated Profile Card](/Design/profileCard.png)
+![Animated Profile Card](/Design/ProfileCard.png)
 
 ---
 Project: Animated Profile Card\
