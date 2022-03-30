@@ -1,6 +1,6 @@
 # Frontends Projects - Animated Profile Card
 
-![3D SOCIAL MEDIA ICON](/Design/rofileCard.png)
+![3D SOCIAL MEDIA ICON](/Design/profileCard.png)
 
 ---
 Project: Animated Profile Card\
@@ -12,7 +12,7 @@ Tutorial : [Tutorialurl](https://frontendsprojects.teachable.com/courses/fronten
 ---
 
 ### Project Brief
-#### In this tutorial we'll learn how to create cool 3d social media icon using html and css , we'll use font awesome icon library for icons 
+#### In this tutorial we’re going to learn how to create a animated profile card html css we'll font awesome icon library for icons in this cool animated profile card we have Profile image Main content section , Social media icons , Skills section
 
 # Building project
 > ### Before building project init your project as a public repo 
